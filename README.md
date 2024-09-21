@@ -1,5 +1,12 @@
 # Financial-Fraud-Detection-System <br/>
 
+Training data and test data are obtained from https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data/data to local storage.<br/>
+The model is trained using Random Forest algorithm, achieving an accuracy of 99.94% and reducing false positives to 35.<br/>
+The model's features are engineered using a correlation matrix and Variance Inflation Factor (VIF).<br/>
+Log transformation is applied to normalize skewed data and outliers are detected and removed.<br/>
+
+
+
 ### What are the key factors that predict fraudulent customer?<br/>
 
 **1. Transaction Patterns:** Unusual transaction amounts, frequency, or merchant categories.<br/>
