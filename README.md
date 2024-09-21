@@ -1,9 +1,9 @@
 # Financial-Fraud-Detection-System <br/>
 
-Data are obtained from https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data/data to local storage.<br/>
-The model is trained using Random Forest algorithm, achieving an accuracy of 99.94% and reducing false positives to 35.<br/>
-The model's features are engineered using a correlation matrix and Variance Inflation Factor (VIF).<br/>
-Log transformation is applied to normalize skewed data and outliers are detected and removed.<br/>
+1. Data are obtained from https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data/data to local storage.<br/>
+2. The model's features are engineered using a correlation matrix and Variance Inflation Factor (VIF).<br/>
+3. Log transformation is applied to normalize skewed data and outliers are detected and removed.<br/>
+4. The model is trained using Random Forest algorithm, achieving an accuracy of 99.94% and reducing false positives to 35.<br/>
 
 
 
